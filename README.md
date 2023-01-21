@@ -1,13 +1,13 @@
 <h1 align = "center">StudyVerse</h1>
 
-<div align="center">  
-   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/victorpereiira/">
+<div align="center">
+   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/victorpereiira/StudyVerse">
    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/victorpereiira/StudyVerse">
 </div>
 
 <p align = "center">
     <a href="#about">About</a>   |
-    <a href="#how-to-contribute">How to contribute</a>   
+    <a href="#how-to-contribute">How to contribute</a>
 </p>
 
 <!-- <p align = "center">
@@ -24,40 +24,37 @@
 StudyVerse
 
 ## Study Area
-
 - 🐱‍👤 Ninja Fundamentals
-    1. [GitNinja](https://github.com/VictorPereiira/GitNinja)
-    2. [LinuxNinja](https://github.com/VictorPereiira/LinuxNinja) 
-    3. [Docker](https://github.com/VictorPereiira/DockerVerse)
-    4. TypescriptNinja
-    5. NodeJsNinja
+    - 🐱‍👤  [GitNinja](https://github.com/VictorPereiira/GitNinja)
+    - 🐱‍👤  [LinuxNinja](https://github.com/VictorPereiira/LinuxNinja)
+    - 🐱‍👤  [Docker](https://github.com/VictorPereiira/DockerVerse)
+    - 🐱‍👤  TypescriptNinja
+    - 🐱‍👤  NodeJsNinja
+
+
+- 💻 Dev Journey
+   - 💻 [AWS-ECS_DevJorney](https://github.com/VictorPereiira/AWS-ECS_DevJorney)
+
+```text
+   - Developer Tools → Git | Gitub | CI/CD
+   - Node.js | Express | NestJS
+   - SQL → MySQL | Postgress with ORM
+   - NOSql → MongoDB | DynamoDB with ODM
+   - Cloud  → AWS | GCP | Azure
+   - Tests → Unit | Integration | Accept | Performance | Security
+   - Clean Code
+   - Design Pattern → Creational | Strucutural | Patterns
+   - Application Architecture → Microservice |  Event Driven | Layer | Data flow
+   - Design de API's → Structure | Resources | Operations | Data Format | Comunication Protocol.
+   - Comunication Protocol → HTTP, HTTPS, FTP e TCP/IP
+   - Security → Authentication | Authorization | Encryption | Attack Protection
+   - Agile Methodologies → Scrum | Kanban
+```
 
 - 🧭 Discovery
-    1. Backend
-       1. Microservices Architecture
-       2. Event Driven Architecture
-       3. Automated Tests
-    2. Frontend
-       1. React JS with Vite
-       2. Micro frontends
-    3. Cloud
-       1. CI/CD
-       2. GCP
-       3. AZURE
-    4. Database
-       1. MySQL
-       2. Postgress
-       3. MongoDB
-       4. DynamoDB
-       5. GraphQL
-       6. TypeORM
-    5. Best Pratices
-       1. Clean Code
-       2. Design Pattern
-    6. Other
-       1. Serverless   
-       2. ChatGPT
-       3. Blockchain
+   - Serverless
+   - ChatGPT
+   - Blockchain
 
 
 ## How to contribute
