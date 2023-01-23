@@ -23,17 +23,7 @@
 ## About
 StudyVerse
 
-## Study Area
-- 🐱‍👤 Ninja Fundamentals
-    - 🐱‍👤  [GitNinja](https://github.com/VictorPereiira/GitNinja)
-    - 🐱‍👤  [LinuxNinja](https://github.com/VictorPereiira/LinuxNinja)
-    - 🐱‍👤  [Docker](https://github.com/VictorPereiira/DockerVerse)
-    - 🐱‍👤  TypescriptNinja
-    - 🐱‍👤  NodeJsNinja
-
-
-- 💻 Dev Journey
-   - 💻 [AWS-ECS_DevJorney](https://github.com/VictorPereiira/AWS-ECS_DevJorney)
+## Dev Roadmap
 
 ```text
    - Developer Tools → Git | Gitub | CI/CD
@@ -50,6 +40,19 @@ StudyVerse
    - Security → Authentication | Authorization | Encryption | Attack Protection
    - Agile Methodologies → Scrum | Kanban
 ```
+
+## Study Area
+- 🐱‍👤 Ninja Fundamentals
+    - 🐱‍👤  [GitNinja](https://github.com/VictorPereiira/GitNinja)
+    - 🐱‍👤  [LinuxNinja](https://github.com/VictorPereiira/LinuxNinja)
+    - 🐱‍👤  [DockerNinha](https://github.com/VictorPereiira/DockerNinja)
+    - 🐱‍👤  TypescriptNinja
+    - 🐱‍👤  NodeJsNinja
+
+
+- 💻 Dev Journey
+   - 💻 [AWS-ECS_DevJourney](https://github.com/VictorPereiira/AWS-ECS_DevJourney)
+
 
 - 🧭 Discovery
    - Serverless
