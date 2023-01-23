@@ -55,9 +55,9 @@ StudyVerse
 
 
 - 🧭 Discovery
-   - Serverless
-   - ChatGPT
-   - Blockchain
+   - 🧭 Serverless
+   - 🧭 ChatGPT
+   - 🧭 Blockchain
 
 
 ## How to contribute
