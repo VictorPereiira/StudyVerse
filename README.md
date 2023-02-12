@@ -46,12 +46,14 @@ StudyVerse
     - 🐱‍👤  [GitNinja](https://github.com/VictorPereiira/GitNinja)
     - 🐱‍👤  [LinuxNinja](https://github.com/VictorPereiira/LinuxNinja)
     - 🐱‍👤  [DockerNinha](https://github.com/VictorPereiira/DockerNinja)
-    - 🐱‍👤  TypescriptNinja
-    - 🐱‍👤  NodeJsNinja
+    - 🐱‍👤  [TypescriptNinja](https://github.com/VictorPereiira/TypescriptNinja)
+    - 🐱‍👤  [JavascriptNinja](https://github.com/VictorPereiira/JavascriptNinja)
+    - 🐱‍👤  [NodeJsNinja](https://github.com/VictorPereiira/NodeJsNinja)
 
 
 - 💻 Dev Journey
    - 💻 [AWS-ECS_DevJourney](https://github.com/VictorPereiira/AWS-ECS_DevJourney)
+   - 💻 [AWS-VPC_DevJourney](https://github.com/VictorPereiira/AWS-VPC_DevJourney)
 
 
 - 🧭 Discovery
