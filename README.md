@@ -10,9 +10,10 @@
     <a href="#how-to-contribute">How to contribute</a>
 </p>
 
-<!-- <p align = "center">
-   <img src="https://user-images.githubusercontent.com/64560823/212745252-a22d645c-6908-418c-806d-7df9b11e8d09.png">
-</p> -->
+
+![image](https://user-images.githubusercontent.com/64560823/219676920-90172589-c13a-4342-94f3-b8f33092c4aa.png)
+
+
 
 <div align="center">
     Translate for
