@@ -62,6 +62,8 @@ StudyVerse
    - 🧭 ChatGPT
    - 🧭 Blockchain
 
+## Job Area
+- What is the best time to ask?
 
 ## How to contribute
 - Make a fork;
