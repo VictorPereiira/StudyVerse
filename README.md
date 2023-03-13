@@ -55,12 +55,14 @@ StudyVerse
 - 💻 Dev Journey
    - 💻 [AWS-ECS_DevJourney](https://github.com/VictorPereiira/AWS-ECS_DevJourney)
    - 💻 [AWS-VPC_DevJourney](https://github.com/VictorPereiira/AWS-VPC_DevJourney)
+   - 💻 [Kubernets_DevJourney](https://github.com/VictorPereiira/Kubernetes_DevJourney)
 
 
 - 🧭 Discovery
    - 🧭 Serverless
    - 🧭 ChatGPT
    - 🧭 Blockchain
+   - 🧭 [PHP](https://github.com/VictorPereiira/PHP_Discovery)
 
 ## Job Area
 - What is the best time to ask?
